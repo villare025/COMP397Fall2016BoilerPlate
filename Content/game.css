@@ -1,0 +1,13 @@
+.game{
+    width:100%;
+    height: auto;
+}
+
+canvas{
+    border: 1px solid orangered;
+    border-radius: 10px;
+    text-align: center;
+    background-color: gray;
+    margin:0 auto;
+    display: inline-block;
+}
