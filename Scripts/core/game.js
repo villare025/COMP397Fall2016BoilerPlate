@@ -24,7 +24,7 @@ var Student = (function (_super) {
     };
     return Student;
 }(Person));
-var person = new Person("Harry Pottah");
+var person = new Person("Harry Potter");
 person.speak();
 var student = new Student("Hermione Granger", 0987654321);
 student.speak();
